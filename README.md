@@ -1,2 +1,2 @@
-# Ecommerce-microsservi-os-com-Java
+# Ecommerce-microsserviços-com-Java
 Bootcamp DIO - Projeto desenvolvido solução de e-commerce com a arquitetura de microsserviços e aplicar a integração entre eles orientada a eventos com Apache Kafka e garantir a compatibilidade entre da comunicação dos microsserviços com Schema Registry. Facilitado por Daniel Hatanaka.
